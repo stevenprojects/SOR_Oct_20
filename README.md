@@ -5,3 +5,4 @@ Change made in master branch
 =======
 
 >>>>>>> dazzling_feature
+Change made as collaborator.
